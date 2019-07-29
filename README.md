@@ -1,2 +1,2 @@
 # arduino
-Projetos em C para skets do arduino
+Projetos em C para sketchs do arduino
